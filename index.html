@@ -35,11 +35,12 @@
         </div>
     </div>
     
-        <div class="table-responsive text-left">
+        <div class="table-responsive text-left fixedsize">
             <table id="table" class="table table-borderless table-hover text-white">
                     <tr class="bg-info">
                         <th>Message</th>
                     </tr>
+                    <tbody id="tbody"></tbody>
             </table>
         </div>
     </div>
@@ -48,8 +49,6 @@
 
     <script type="module">
         import {HOST, PORT} from './myvar.js';
-        // const HOST = myvar.HOST;
-        // const PORT = myvar.PORT;
 
         console.log('Connecting...');
         var sock = new WebSocket('ws://'+HOST+':'+PORT);
@@ -73,7 +72,7 @@
         // サーバーからデータを受け取る
         sock.addEventListener('message',function(e){
             console.log(e.data);
-            let table = document.getElementById("table");
+            let table = document.getElementById("tbody");
             let row = table.insertRow(-1);
             row.insertCell(-1).innerHTML = e.data;
         });

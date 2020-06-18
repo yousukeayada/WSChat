@@ -1,4 +1,3 @@
-__pycache__
-log/
-myvar.py
-myvar.js
+/__pycache__
+/log/
+/myvar.js

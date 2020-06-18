@@ -3,10 +3,24 @@
     padding: 0px;
 } */
 
+/* th {
+    display: block;
+}
+
+#tbody {
+    overflow-y: scroll;
+    height: 70vh;
+} */
+
+.fixedsize {
+    height: 70vh;
+}
+
 .context {
     /* width: 100%; */
-    position: absolute;
+    position: fixed;
     bottom:50vh;
+    top: 5vh;
 }
 
 .area{
