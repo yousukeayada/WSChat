@@ -7,7 +7,7 @@ from datetime import datetime
 # Third party
 from websocket_server import WebsocketServer
 # Local
-import my_var
+import myvar
 
 # logging.basicConfig(filename='log/logger.log', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
@@ -29,8 +29,8 @@ def message_received(client, server, message):
     server.send_message_to_all(datetime.now().isoformat() + ": " + message)
 
 if __name__ == "__main__":
-    HOST = my_var.HOST
-    PORT = my_var.PORT
+    HOST = myvar.HOST
+    PORT = myvar.PORT
     # インスタンス作成．loglevel=logging.DEBUGも使える
     server = WebsocketServer(port=PORT, host=HOST, loglevel=logging.INFO)
     # 新しいクライアント接続時
