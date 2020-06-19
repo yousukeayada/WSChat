@@ -1,6 +1,3 @@
-# https://qiita.com/__init__/items/91e5841ed53d55a7895e
-# https://make-muda.net/2017/10/5645/
-# https://clean-copy-of-onenote.hatenablog.com/entry/inrto_websocket#WebSocket%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC
 # Standard
 import logging
 from datetime import datetime
