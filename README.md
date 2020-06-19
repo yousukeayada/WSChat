@@ -4,12 +4,13 @@
 git clone https://github.com/yousukeayada/WSChat.git
 
 mkdir log
-touch myvar.py
-touch myvar.js
+touch myvar.py #中身は下記
+touch myvar.js #中身は下記
+python server.py
 ```
 
 ## サーバ
-- Pythonで作成
+- Pythonで作成（`server.py`）
 - `log`という名前のディレクトリが必要
 - `myvar.py`からIPアドレス，ポート番号を読み込む
 ```python
@@ -18,7 +19,7 @@ PORT = 12345
 ```
 
 ## クライアント
-- JavaScriptで作成
+- JavaScriptで作成（`index.html`）
 - `myvar.js`からIPアドレス，ポート番号を読み込む
 ```js
 export const HOST = '127.0.0.1'
