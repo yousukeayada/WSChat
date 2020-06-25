@@ -31,7 +31,7 @@
 @snapend
 
 @snap[south-east]
-![IMAGE](assets/img/current_server.png)
+![IMAGE](/meetings/20200625/assets/img/current_server.png)
 @snapend
 
 ---
