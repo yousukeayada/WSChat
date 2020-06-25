@@ -30,9 +30,7 @@
   - Heroku
 @snapend
 
----
-
-image=assets/img/current_server.png
+---?image=assets/img/current_server.png
 
 ---
 
