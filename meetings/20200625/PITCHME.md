@@ -32,6 +32,10 @@
 
 ---
 
+image=assets/img/current_server.png
+
+---
+
 ![IMAGE](assets/img/current_server.png)
 
 ---
