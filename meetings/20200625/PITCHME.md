@@ -30,9 +30,7 @@
   - Heroku
 @snapend
 
-@snap[south-east]
 ![IMAGE](assets/img/current_server.png)
-@snapend
 
 ---
 
