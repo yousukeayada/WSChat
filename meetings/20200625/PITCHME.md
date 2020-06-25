@@ -34,6 +34,12 @@
 
 ---
 
+@snap[south span-50 text-center]
+![](assets/img/current_server.png)
+@snapend
+
+---
+
 ![IMAGE](assets/img/current_server.png)
 
 ---
