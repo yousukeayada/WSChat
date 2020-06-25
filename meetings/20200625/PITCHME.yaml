@@ -2,7 +2,7 @@
 # Theme Template
 # Doc: https://gitpitch.com/docs/themes/default
 # white black sky beige moon night simple
-theme            : night
+theme            : sky
 
 # theme-background : [ "#ffffff" ] # white
 # headline : h1, h2
@@ -27,7 +27,7 @@ highlight : tomorrow
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+# theme-override: assets/css/PITCHME.css
 
 #
 # Logo Setting
