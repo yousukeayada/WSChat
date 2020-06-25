@@ -30,13 +30,7 @@
   - Heroku
 @snapend
 
----?image=assets/img/current_server.png
-
----
-
-@snap[south span-50 text-center]
-![](assets/img/current_server.png)
-@snapend
+---?image=assets/img/current_server.png&size=50% 100%
 
 ---
 
