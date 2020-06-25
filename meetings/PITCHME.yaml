@@ -2,9 +2,9 @@
 # Theme Template
 # Doc: https://gitpitch.com/docs/themes/default
 # white black sky beige moon night simple
-theme            : beige
+theme            : moon
 
-theme-background : [ "#ffffff" ] # white
+# theme-background : [ "#ffffff" ] # white
 # headline : h1, h2
 # byline : h3, h4
 # Lato Montserrat Nunito Sans Open Sans Oswald Poppins Prompt Quicksand Raleway Roboto Source Sans Pro Ubuntu Work Sans
