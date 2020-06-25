@@ -4,18 +4,18 @@
 # white black sky beige moon night simple
 theme            : template
 
-# theme-background : [ "#ffffff" ] # white
+theme-background : [ "#000000" ]
 # headline : h1, h2
 # byline : h3, h4
 # Lato Montserrat Nunito Sans Open Sans Oswald Poppins Prompt Quicksand Raleway Roboto Source Sans Pro Ubuntu Work Sans
-# theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
-# theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
-# theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
-# theme-links      : [ "#F1C40F", "#5254F7" ]
-# theme-code       : [ "Source Code Pro", "100", "120" ]
-# theme-controls   : [ "#C0C0C0" ]
-# theme-margins    : [ "0", "15px" ]
-# layout           : center
+theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
+theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
+theme-links      : [ "#F1C40F", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+layout           : center
 
 #
 # Highlight Setting
