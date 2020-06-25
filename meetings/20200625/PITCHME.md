@@ -30,25 +30,16 @@
   - Heroku
 @snapend
 
----?image=assets/img/current_server.png&position=left&size=50% 100%
-@title[Slide Decks for Developers]
-
-@snap[east span-50 text-center]
-## GitPitch
-#### Slide Decks
-#### for
-### Developers
-@snapend
-
----
-
+@snap[south-east]
 ![IMAGE](assets/img/current_server.png)
+@snapend
 
 ---
 
 @snap[north-west ]
 ### 開発言語・環境
 - GitHubでソースコード管理
+  - GitPitchでスライド作成（暫定）
 - クライアント側
   - JavaScriptのフレームワークを使ってみる
   -  とりあえずVue.js
