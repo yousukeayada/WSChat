@@ -30,7 +30,15 @@
   - Heroku
 @snapend
 
----?image=assets/img/current_server.png&size=50% 100%
+---?image=assets/img/current_server.png&position=left&size=50% 100%
+@title[Slide Decks for Developers]
+
+@snap[east span-50 text-center]
+## GitPitch
+#### Slide Decks
+#### for
+### Developers
+@snapend
 
 ---
 
