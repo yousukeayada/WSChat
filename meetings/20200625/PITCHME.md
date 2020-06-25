@@ -31,7 +31,7 @@
 @snapend
 
 @snap[south-east]
-![IMAGE](https://github.com/yousukeayada/WSChat/blob/master/meetings/assets/img/current_server.png)
+![IMAGE](assets/img/current_server.png)
 @snapend
 
 ---
