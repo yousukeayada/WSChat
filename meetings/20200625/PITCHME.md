@@ -3,7 +3,7 @@
 
 ---
 
-@snap[north-west text-center]
+@snap[north-west ]
 ### 発端
 - WebSocket使ってみたい→チャットアプリ作れそう
   - なおチャットアプリが一般的にどういう技術で作られているかは知らない
@@ -12,7 +12,7 @@
 
 ---
 
-@snap[north-west text-center]
+@snap[north-west ]
 ### 目的
 - チーム開発の経験を積みたい
 - アジャイル開発の練習（？）
@@ -21,7 +21,7 @@
 
 ---
 
-@snap[north-west text-center]
+@snap[north-west ]
 ### 現状
 - GCE上にHTTPサーバ，WSサーバ両方を構築
 - 今後は違うサービスを使う可能性あり
@@ -30,11 +30,13 @@
   - Heroku
 @snapend
 
+---
+
 ![IMAGE](assets/img/current_server.png)
 
 ---
 
-@snap[north-west text-center]
+@snap[north-west ]
 ### 開発言語・環境
 - GitHubでソースコード管理
 - クライアント側
@@ -46,7 +48,7 @@
 
 ---
 
-@snap[north-west text-center]
+@snap[north-west ]
 ### 開発の流れ（1回目のみ）
 1. GitHubのcollaboratorになる
 2. クローン→ブランチを切る
@@ -69,7 +71,7 @@ git push origin feature/test
 
 ---
 
-@snap[north-west text-center]
+@snap[north-west ]
 ### 開発の流れ（2回目以降）
 1. masterブランチに戻る
 2. プル→ブランチを切る
@@ -92,7 +94,7 @@ git push origin feature/ayada
 
 ---
 
-@snap[north-west text-center]
+@snap[north-west ]
 ### 今後欲しい機能（暫定）
 - 認証（OAuth）
 - いいね
