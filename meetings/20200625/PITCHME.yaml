@@ -2,7 +2,7 @@
 # Theme Template
 # Doc: https://gitpitch.com/docs/themes/default
 # white black sky beige moon night simple
-theme            : sky
+theme            : template
 
 # theme-background : [ "#ffffff" ] # white
 # headline : h1, h2
